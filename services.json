@@ -30,8 +30,14 @@
       "price": "от 2 500 ₽/мес.",
       "category": "ИИ",
       "localIcon": "ChatGPTIcon",
+      "iconURL": "icons/ChatGPTIcon.png",
       "tintColor": "#10A37F",
-      "screenshots": [],
+      "screenshots": [
+        "screenshots/gpt.png",
+        "screenshots/gemini.png",
+        "screenshots/grok.png",
+        "screenshots/claude.png"
+      ],
       "features": [
         "ChatGPT — решит за тебя тест",
         "Nanobanana — сгенерирует твое авто без грузиков",
