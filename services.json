@@ -6,7 +6,7 @@
       "name": "Вайнах VPN",
       "subtitle": "Быстрое и безопасное подключение",
       "developer": "Zaur Dadaev",
-      "price": "от 220 ₽/мес.",
+      "price": "от 200 ₽/мес.",
       "category": "VPN",
       "localIcon": "VPNIcon",
       "tintColor": "#3B82F6",
@@ -16,9 +16,9 @@
         "Без надоедливых реклам",
         "Самые быстрые сервера в РФ"
       ],
-      "description": "купи плииииииииз",
+      "description": "Вайнах VPN — быстрый и стабильный VPN для iPhone. Подключение без лишней рекламы, сервера в России и удобная оплата прямо в Telegram.",
       "whatsNew": "Обновили список серверов и ускорили подключение.",
-      "version": "3.0",
+      "version": "2.0",
       "actionTitle": "Открыть",
       "actionURL": "https://t.me/VaynahVPNbot"
     },
